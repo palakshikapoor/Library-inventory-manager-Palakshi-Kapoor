@@ -1,0 +1,20 @@
+[
+    {
+        "title": "abc",
+        "author": "bcd",
+        "isbn": "12345",
+        "status": "available"
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "isbn": "987654321",
+        "status": "available"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "isbn": "896745321",
+        "status": "available"
+    }
+]
